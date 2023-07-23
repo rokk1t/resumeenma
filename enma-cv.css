@@ -113,6 +113,11 @@ table td:hover {
   background-color: #fff9dc;
 }
 
+.list-2 {
+  padding: 0 15px;
+  text-align: justify;
+}
+
 .list-2 li {
   text-align: center;
   margin: auto;
