@@ -161,7 +161,7 @@ table td:hover {
   width: 100%;
 }
 
-@media screen and (max-width: 460px) {
+@media (max-width: 460px) {
   .form-row {
     display: block;
   }
